@@ -6,6 +6,7 @@ public class B3 {
 		System.out.println("Next");
 		System.out.println("Hello");
 		System.out.println("Tik");
+	    int x;
 	}
 
 }
